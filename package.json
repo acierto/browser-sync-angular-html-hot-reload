@@ -1,0 +1,41 @@
+{
+  "name": "browser-sync-angular-html-hot-reload",
+  "version": "0.0.1",
+  "description": "BrowserSync plugin for hot reloading of HTML templates of Angular",
+  "homepage": "https://github.com/acierto/browser-sync-angular-html-hot-reload.git",
+  "author": {
+    "name": "Bogdan Nechyporenko",
+    "url": "https://github.com/acierto"
+  },
+  "files": [
+    "lib",
+    "client"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "browser",
+    "Sync",
+    "Angularjs",
+    "template"
+  ],
+  "repository": "https://github.com/acierto/browser-sync-angular-html-hot-reload.git",
+  "devDependencies": {
+    "coffee-script": "1.9.2",
+    "gulp": "3.9.0",
+    "gulp-release-it": "1.0.10"
+  },
+  "scripts": {
+    "test": "gulp"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "minimatch": "^3.0.0",
+    "tamper": "^0.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
