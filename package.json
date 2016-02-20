@@ -1,6 +1,6 @@
 {
   "name": "browser-sync-angular-html-hot-reload",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "BrowserSync plugin for hot reloading of HTML templates of Angular",
   "homepage": "https://github.com/acierto/browser-sync-angular-html-hot-reload.git",
   "author": {
