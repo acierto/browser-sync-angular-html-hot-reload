@@ -29,6 +29,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
+    "glob": "7.0.0",
     "lodash": "^3.10.1",
     "minimatch": "^3.0.0",
     "tamper": "^0.1.0"
